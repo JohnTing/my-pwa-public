@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/my-pwa/static/css/main.873fde64.css",
+    "main.js": "/my-pwa/static/js/main.70666d32.js",
+    "service-worker.js": "/my-pwa/service-worker.js",
+    "index.html": "/my-pwa/index.html",
+    "main.873fde64.css.map": "/my-pwa/static/css/main.873fde64.css.map",
+    "main.70666d32.js.map": "/my-pwa/static/js/main.70666d32.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.873fde64.css",
+    "static/js/main.70666d32.js"
+  ]
+}
